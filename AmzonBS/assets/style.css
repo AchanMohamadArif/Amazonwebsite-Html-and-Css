@@ -1,0 +1,60 @@
+.logo img{
+    width: 8%;
+}
+
+.search input{
+    width: 500px;
+}
+
+.search img{
+    border-radius: 6px;
+    width: 40px;
+}
+
+.secnavbar{
+    height: 40px;
+}
+
+.cards{
+    height: 100px;
+}
+
+.All-item{
+    margin-top: -300px;
+    position: relative;
+}
+
+.down-img img{
+    width: 15%;
+}
+
+
+
+
+/*Productpage css*/
+
+.left-section{
+    width: 40%;
+}
+.right-section{
+    width: 70%;
+    height: 100vh;
+
+}
+
+.thumbnails{
+width: 50px;
+min-width: 50px;
+height: 70vh;
+padding: 15px;
+}
+
+.thumbnails img{
+    border-radius: 10px;
+}
+
+.options img{
+    height: 50px;
+}
+
+
